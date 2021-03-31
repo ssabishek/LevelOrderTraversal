@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615625998 source:e:\practice\codeblocks\levelordertraversal\main.cpp
+	<iostream>
+	<queue>
+	<stack>
+
